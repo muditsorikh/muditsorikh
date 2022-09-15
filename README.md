@@ -3,7 +3,7 @@
 I am a Bachleor of Technology student in Computer Science and Engineering at [VIT Bhopal University](https://vitbhopal.ac.in/). Apart from that I love to solve real world problems by writing clean algorithms and contributing to open source.
 
 - 💻 Currently working on ML based Chess GUI, which uses ML algorithms to adapt and play chess.
-- 👨🏽‍💻 Currently growing my skillset in Software Development and .
+- 👨🏽‍💻 Currently growing my skillset in Software Development.
 
  **I am open to**:
 
